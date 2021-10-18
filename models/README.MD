@@ -1,0 +1,1 @@
+Referência: https://github.com/RafaelDRicci/PythonSentimentAnalysis/
